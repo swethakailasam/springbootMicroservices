@@ -21,7 +21,7 @@ public class Accounts extends BaseEntity{
     //dev going to decide the primary key value.so no GeneratedValue.
     @Id
     @Column(name="account_number")
-	private String accountNumber;
+	private Long accountNumber;
     
     @Column(name="account_type")
 	private String accountType;

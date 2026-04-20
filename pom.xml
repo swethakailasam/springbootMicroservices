@@ -119,6 +119,9 @@
 							<goal>compile</goal>
 						</goals>
 						<configuration>
+						    <compilerArgs>
+							    <arg>-parameters</arg>
+							</compilerArgs>
 							<annotationProcessorPaths>
 								<path>
 									<groupId>org.projectlombok</groupId>
