@@ -1,0 +1,3 @@
+[submodule "eazybytespractice"]
+	path = eazybytespractice
+	url = git@github.com:swethakailasam/Accounts_Loans_Cards_Microservices.git
